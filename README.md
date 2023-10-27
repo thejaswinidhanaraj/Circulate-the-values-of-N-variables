@@ -15,7 +15,14 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-
+#Program to circulate N values.
+#Developed by:THEJASWINI D
+#RegisterNumber:23008944
+def circulate():
+      l=eval(input())
+      n=int(input())
+      out=l[n: ]+l[ :n]
+      print("After circulating the values are:",out)
 ## Output:
-
+![Alt text](image.png)
 ## Result:

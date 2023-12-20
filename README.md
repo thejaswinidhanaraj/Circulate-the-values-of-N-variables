@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## Program:
+```
 #Program to circulate N values.
 #Developed by:THEJASWINI D
 #RegisterNumber:23008944
@@ -26,6 +27,8 @@ def circulate():
       n=int(input())
       out=l[n: ]+l[ :n]
       print("After circulating the values are:",out)
+```
 ## Output:
-![Alt text](image.png)
+![image](https://github.com/thejaswinidhanaraj/Circulate-the-values-of-N-variables/assets/148514511/6c3dfcf9-4c92-4ced-a966-971a380a24bc)
+
 ## Result:
